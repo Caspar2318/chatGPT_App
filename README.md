@@ -1,13 +1,19 @@
-# chatGPT_App
+# chatGPT_App for coding
 
-# npm create vite@latest client --template vanilla
+use OpenAI API Codex, which translates natural language to code
 
-# Select a framework: Vanilla
+#npm create vite@latest client --template vanilla
 
-# Select a variant: JavaScript
+#Select a framework: Vanilla
 
-# cd client
+#Select a variant: JavaScript
 
-# npm install
+#cd client
 
-# npm run dev
+#npm install
+
+#npm run dev
+
+#npm install cors (use for cross origin requests) dotenv (use for secure environment variables) express (backend framework) nodemon (keep application running when implement changes continuesly) openai
+
+#server.js for backend to use api
