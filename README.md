@@ -1,6 +1,6 @@
 # chatGPT_App for coding
 
-use OpenAI API Codex, which translates natural language to code
+use OpenAI API GPT-3 'text-davinci-003'
 
 #npm create vite@latest client --template vanilla
 
