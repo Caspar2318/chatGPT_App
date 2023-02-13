@@ -1,4 +1,6 @@
-# chatGPT_App for coding
+# chatGPT_App slow version haha
+
+live website: https://chatgpt.cxcspace.com/
 
 use OpenAI API GPT-3 'text-davinci-003'
 
